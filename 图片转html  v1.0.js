@@ -51,7 +51,7 @@ const endstr = '</body>'
 
 
 
-const fileurl = 'E:\\下载\\seding\\tu\\'
-for (let i = 0; i < 99; i++) {
-    gethtml(fileurl + '0 ('+i+')', i )   
-}
+// const fileurl = 'E:\\下载\\seding\\tu\\'
+// for (let i = 0; i < 99; i++) {
+//     gethtml(fileurl + '0 ('+i+')', i )   
+// }
