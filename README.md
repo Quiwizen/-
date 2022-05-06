@@ -12,6 +12,8 @@
 
 更改在55行下的filename变量设置好输出html的命名
 
+另外您可以根据自己的阅读习惯更改47行的html模板
+
 在cmd内通过node Image to HTML via Base64  v1.0.js命令执行文件
 
 当然你也可以通过for循环将批量的文件夹转换为html文件
